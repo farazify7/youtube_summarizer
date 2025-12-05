@@ -18,8 +18,8 @@ def get_requrements(file_path:str)->List[str]:
 setup(
 name = "youtube_summarizer",
 version='0.0.1',
-author="Vishwaradhya",
-author_email='vbsinsta9@gmail.com',
+author="Mohammed Zubairullah Faraz",
+author_email='mdzfaraz@gmail.com',
 packages=find_packages(),
 install_requires = get_requrements('requirements.txt'),
 
